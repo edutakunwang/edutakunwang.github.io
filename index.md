@@ -7,4 +7,4 @@ Takun Wang 2023-09-14
 UC Berkeley
 
 # My Projects
-[Poject Page] (https://edutakunwang.github.io/projects)
+[Go to the Poject Page](https://edutakunwang.github.io/projects)
