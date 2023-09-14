@@ -3,4 +3,8 @@ Project 1 - Create my own website\
 \
 Takun Wang 2023-09-14
 
-# This is the home page
+# About Me
+UC Berkeley
+
+# My Projects
+[Poject Page] (https://edutakunwang.github.io/projects)
